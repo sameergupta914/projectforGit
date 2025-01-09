@@ -1,0 +1,1 @@
+this is a basic thing to get to know about git and github
